@@ -10,7 +10,7 @@
 </div>
 
   <div align="center"> 
-  <img src= "https://streak-stats.demolab.com/?user=DenverCoder1&theme=gruvbox" alt = "ComputerChemistry Streak Stats">
+  <img src= "https://streak-stats.demolab.com/?user=ComputerChemistry&theme=gruvbox" alt = "ComputerChemistry Streak Stats">
     </div>
 
 
