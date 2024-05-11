@@ -1,2 +1,2 @@
 ### Hello, There 🐧
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComputerChemistry)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComputerChemistry)
