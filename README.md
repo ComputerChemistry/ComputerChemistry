@@ -1,6 +1,9 @@
 ### Hello, There 🐧
-
-[![My Skills](https://skillicons.dev/icons?i=emacs,git,linux,cpp,c)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=emacs,git,linux,cpp,c" />
+     </a>
+  </p>
 
 ![ComputerChemistry GitHub stats](https://github-readme-stats.vercel.app/api?username=ComputerChemistry&show_icons=true&theme=gruvbox)
 
