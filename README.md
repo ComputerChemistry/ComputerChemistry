@@ -1,4 +1,4 @@
-### Hello, There 🐧
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=emacs,git,linux,c,cpp" />
