@@ -4,6 +4,10 @@
     <img src="https://skillicons.dev/icons?i=emacs,git,linux,c,cpp" />
      </a>
   </p>
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ComputerChemistry&show_icons=true&theme=gruvbox" alt="ComputerChemistry GitHub stats">
+</div>
 
 ![ComputerChemistry GitHub stats](https://github-readme-stats.vercel.app/api?username=ComputerChemistry&show_icons=true&theme=gruvbox)
 
