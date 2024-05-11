@@ -11,7 +11,7 @@
   </p>
  
 <div align ="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerChemistry&theme=gruvbox" alt="ComputerChemistry Top Lang">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerChemistry&theme=gruvbox&card_width=500px" alt="ComputerChemistry Top Lang">
   </a>
     </p>
 
