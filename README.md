@@ -6,12 +6,12 @@
   </p>
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ComputerChemistry&show_icons=true&theme=catppuccin-mocha&card_width=500px" alt="ComputerChemistry GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ComputerChemistry&show_icons=true&theme=catppuccin_mocha&card_width=500px" alt="ComputerChemistry GitHub stats">
 </a>
   </p>
  
 <div align ="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerChemistry&theme=catppuccin-mocha&card_width=500px" alt="ComputerChemistry Top Lang">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerChemistry&theme=catppuccin_mocha&card_width=500px" alt="ComputerChemistry Top Lang">
   </a>
     </p>
 
