@@ -9,4 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ComputerChemistry&show_icons=true&theme=catppuccin_mocha&card_width=500px" alt="ComputerChemistry GitHub stats">
 </a>
   </p>
- 
+<div align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerChemistry&show_icons=true&theme-catppuccin_mocha&card_width=500px layout=donut"
+    </a> 
+      </p>
+  
