@@ -10,7 +10,7 @@
 </a>
   </p>
 <div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerChemistry&show_icons=true&theme-catppuccin_mocha&card_width=500px layout=donut"
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerChemistry&theme-catppuccin_mocha&card_width=500px&layout=donut"
     </a> 
       </p>
-  
+ 
