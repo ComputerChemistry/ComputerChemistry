@@ -32,5 +32,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComputerChemistry&theme=tokyonight&width=700px">
 </div>
     
-## Feeding...
+## 🐍 Feeding...
 ![Snake animation](https://raw.githubusercontent.com/ComputerChemistry/ComputerChemistry/output/github-contribution-grid-snake-dark.svg)
