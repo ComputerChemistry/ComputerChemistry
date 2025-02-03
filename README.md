@@ -15,14 +15,19 @@
   - Python 🐍
   - Javascript/Node.js/React.js 👻
 
+📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ComputerChemistry&show_icons=true&rank_icon=github&theme=catppuccin_mocha&card_width=500px" alt="ComputerChemistry GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ComputerChemistry&show_icons=true&rank_icon=github&theme=tokyonight&card_width=400px" alt="ComputerChemistry GitHub stats">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerChemistry&theme=catppuccin_mocha&card_width=500px&layout=compact" alt="Top languages used by ComputerChemistry">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerChemistry&theme=tokyonight&card_width=500px&layout=compact" alt="Top languages used by ComputerChemistry">
 </div>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComputerChemistry&theme=tokyonight&width=700px">
+</div>
+    
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/ComputerChemistry/ComputerChemistry/output/github-contribution-grid-snake-dark.svg)
