@@ -15,7 +15,7 @@
   - Python 🐍
   - Javascript/Node.js/React.js 👻
 
-📊 Stats
+# 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ComputerChemistry&show_icons=true&rank_icon=github&theme=tokyonight&card_width=400px" alt="ComputerChemistry GitHub stats">
