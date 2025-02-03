@@ -4,6 +4,9 @@
   </a>
 </p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Carlos+" />
+</h3>
 
 # Hello, there! I'm Carlos 👋 💻
 
