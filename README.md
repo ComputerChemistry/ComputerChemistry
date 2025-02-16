@@ -11,6 +11,7 @@
 # Hello, there! I'm Carlos 👋 💻
 
 - 💻 Computer Science Student @soyUNISON. My areas of interest are Software Engineering and Databases.
+- 🔭 Linux enthusiast with a passion for experimenting and exploring new technologies.
 - 🌱 Software Developer passionate about developing new technologies to connect people and build community.
 - 💬 Currently, I'm working with the following technologies:
   - C++ 🧑‍🎓
