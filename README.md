@@ -22,15 +22,15 @@
 # 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ComputerChemistry&show_icons=true&rank_icon=github&theme=tokyonight&card_width=400px" alt="ComputerChemistry GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ComputerChemistry&show_icons=true&rank_icon=github&theme=gruvbox&card_width=400px" alt="ComputerChemistry GitHub stats">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerChemistry&theme=tokyonight&card_width=500px&langs_count=12&layout=compact" alt="Top languages used by ComputerChemistry">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerChemistry&theme=gruvbox&card_width=500px&langs_count=12&layout=compact" alt="Top languages used by ComputerChemistry">
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComputerChemistry&theme=tokyonight&width=700px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComputerChemistry&theme=gruvbox&width=700px">
 </div>
     
 ## 🐍 Feeding...
